@@ -12,7 +12,7 @@
 ## 📌 About Me
 - Currently training for certifications (BTJA &amp; BTL1) and looking for job experience before applying to Cybersecurity at college.
 - I'm open to collaborate with other developers who resonate with me.
-- Currently working on BLÅHAJ, Valkyria, & numerous BLÅHAJ ports
+- Currently working on BLÅHAJ, Valkyria, & numerous BLÅHAJ ports.
 
 
 ## 🧠 My Focus Areas
