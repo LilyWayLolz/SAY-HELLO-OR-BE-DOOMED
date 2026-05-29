@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="" alt="Banner" width="100%" />
+<img src="https://github.com/LilyWayLolz/SAY-HELLO-OR-BE-DOOMED/blob/main/OH%20GOD%20WHY%20TYPESCRIPT.png?raw=true" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Currently training for certifications (BTJA &amp; BTL1) and looking for job experience before applying to Cybersecurity at college.
