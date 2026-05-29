@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lily Way (Not really)</h1>
-<h3 align="center">Software Developer & Bug Tester @ CyberValkyries | Cybersecurity Student | Prkgramming Enthusiast | Padsionate Artist</h3>
+<h3 align="center">Software Developer & Bug Tester @ CyberValkyries | Cybersecurity Student | Programming Enthusiast | Passionate Artist</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=LilyWayLolz">
