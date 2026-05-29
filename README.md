@@ -75,6 +75,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
+
 ## Random boot.dev profile stats
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/4f77dfc6-784e-4f06-9c05-f791fdc97824/thumbnail" >
