@@ -12,7 +12,7 @@
 ## 📌 About Me
 - Currently training for certifications (BTJA &amp; BTL1) and looking for job experience before applying to ICSE at Chiang Mai University.
 - I'm open to collaborate with other developers who resonate with me.
-- - Practicing C, Rust, Zig, Typescript, and WASM
+- Practicing C, Rust, Zig, Typescript, and WASM
 - Currently working on BLÅHAJ, Valkyria, & numerous BLÅHAJ ports.
 
 
