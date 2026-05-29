@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://www.linkedin.com/mwlite/profile/me/add/background?trk=profile" alt="Banner" width="100%" />
+<img src="" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Currently training for certifications (BTJA &amp; BTL1) and looking for job experience before applying to Cybersecurity at college.
