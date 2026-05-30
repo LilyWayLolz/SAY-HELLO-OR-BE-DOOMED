@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">• Currently training for certifications (BTJA & BTL1) and looking for job experience before applying to ICSE at Chiang Mai University.<br>• I'm open to collaborate with other developers who resonate with me.<br>• Practicing C, Rust, Zig, Typescript, and WASM<br>• Currently working on BLÅHAJ, Valkyria, & numerous BLÅHAJ ports.</p>
+<p align="left">• Currently training for certifications (BTJA & BTL1) and looking for job experience while doing classes to gain college credits for a Computer Science degree at Thomas Edison State University.<br>• I'm open to collaborate with other developers who resonate with me.<br>• Practicing C, Rust, Zig, Typescript, and WASM<br>• Currently working on BLÅHAJ, Valkyria, & numerous BLÅHAJ ports.</p>
 
 ###
 
