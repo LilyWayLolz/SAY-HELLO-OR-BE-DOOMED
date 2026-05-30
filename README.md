@@ -45,12 +45,12 @@
   <img src="https://streak-stats.demolab.com/?user=LilyWayLolz&theme=dracula&hide_border=true&cache_seconds=86400" alt="LilyWayLolz's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=LilyWayLolz&theme=dracula&radius=10" alt="LilyWayLolz's Activity Graph" />
-</p>
-<p align="center">
   <a href="https://github.com/LilyWayLolz">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LilyWayLolz&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=LilyWayLolz&theme=dracula&radius=10" alt="LilyWayLolz's Activity Graph" />
 </p>
 
 ###
