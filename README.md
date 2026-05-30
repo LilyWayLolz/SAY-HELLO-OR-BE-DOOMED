@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Software Developer & Bug Tester @ Cyber-Valkyries | Cybersecurity Student | Programming Enthusiast | Passionate Artist</h3>
+<h3 align="center">Software Developer & Bug Tester @[Cyber-Valkyries](https://github.com/Cyber-Valkyries) | Cybersecurity Student | Programming Enthusiast | Passionate Artist</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- Currently training for certifications - (BTJA & BTL1) and looking for job experience before applying to ICSE at Chiang Mai University.<br>- I'm open to collaborate with other developers who resonate with me.<br>- Practicing C, Rust, Zig, Typescript, and WASM<br>- Currently working on BLÅHAJ, Valkyria, & numerous BLÅHAJ ports.</p>
+<p align="left">• Currently training for certifications (BTJA & BTL1) and looking for job experience before applying to ICSE at Chiang Mai University.<br>• I'm open to collaborate with other developers who resonate with me.<br>• Practicing C, Rust, Zig, Typescript, and WASM<br>• Currently working on BLÅHAJ, Valkyria, & numerous BLÅHAJ ports.</p>
 
 ###
 
