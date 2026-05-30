@@ -41,6 +41,23 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
