@@ -42,10 +42,7 @@
   <a href="https://github.com/LilyWayLolz">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LilyWayLolz&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="LilyWayLolz's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=LilyWayLolz&theme=dracula&hide_border=true&cache_seconds=86400" alt="LilyWayLolz's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <a href="https://github.com/LilyWayLolz">
+    <a href="https://github.com/LilyWayLolz">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LilyWayLolz&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
 </p>
