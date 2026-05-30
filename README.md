@@ -38,27 +38,20 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/LilyWayLolz/LilyWayLolz/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/LilyWayLolz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LilyWayLolz&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="LilyWayLolz's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=LilyWayLolz&theme=dracula&hide_border=true&cache_seconds=86400" alt="LilyWayLolz's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=LilyWayLolz&theme=dracula&radius=10" alt="LilyWayLolz's Activity Graph" />
+</p>
+<p align="center">
+  <a href="https://github.com/LilyWayLolz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LilyWayLolz&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 ###
 
