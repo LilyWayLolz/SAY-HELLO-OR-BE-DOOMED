@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- Cybersecurity<br>- Software Development</p>
+<p align="left">○ Cybersecurity<br>○ Software Development</p>
 
 ###
 
