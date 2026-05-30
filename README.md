@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Software Developer & Bug Tester @[Cyber-Valkyries](https://github.com/Cyber-Valkyries) | Cybersecurity Student | Programming Enthusiast | Passionate Artist</h3>
+<h3 align="center">Software Developer & Bug Tester @ Cyber-Valkyries | Cybersecurity Student | Programming Enthusiast | Passionate Artist</h3>
 
 ###
 
