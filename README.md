@@ -127,7 +127,7 @@
 
 ###
 
-## 🔖 Random boot.dev profile stats
+## 📖 Random boot.dev profile stats
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/4f77dfc6-784e-4f06-9c05-f791fdc97824/thumbnail" >
 </p>
