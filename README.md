@@ -18,16 +18,6 @@
 
 ###
 
-<h2 align="left">Alternatively:</h2>
-
-###
-
-<div align="center">
-  <a href="https://codeberg.org/LilyWayLolz"><h3>View my Codeberg!</h3></a>
-</div>
-
-###
-
 <h2 align="left">📌 About Me</h2>
 
 ###
@@ -59,6 +49,16 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=LilyWayLolz&theme=dracula&radius=10" alt="LilyWayLolz's Activity Graph" />
 </p>
+
+<h2 align="left">Alternatively:</h2>
+
+###
+
+<div align="center">
+  <a href="https://codeberg.org/LilyWayLolz"><h3>View my Codeberg!</h3></a>
+</div>
+
+###
 
 ###
 
@@ -145,7 +145,7 @@
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/4f77dfc6-784e-4f06-9c05-f791fdc97824/thumbnail" >
 </p>
-<h4> boot.dev recruitment link (if you're interested) </h4>
+<h4> <a href="https://www.boot.dev?bannerlord=lilywaylolz">boot.dev recruitment link</a> (if you're interested) </h4>
 <p>
 https://www.boot.dev?bannerlord=lilywaylolz
 </p>
