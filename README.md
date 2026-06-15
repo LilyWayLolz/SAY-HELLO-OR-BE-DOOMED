@@ -10,6 +10,8 @@
   <img height="200" src="https://github.com/LilyWayLolz/SAY-HELLO-OR-BE-DOOMED/blob/main/OH%20GOD%20WHY%20TYPESCRIPT.png?raw=true"  />
 </div>
 
+<h3 align="center"><a href="https://codeberg.org/LilyWayLolz>View my Codeberg!</a></h3>
+
 ###
 
 <div align="center">
