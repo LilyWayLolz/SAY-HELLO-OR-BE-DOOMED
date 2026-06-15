@@ -52,9 +52,7 @@
 
 <h2 align="left">Alternatively:</h2>
 
-<div align="center">
-  <a href="https://codeberg.org/LilyWayLolz"><h3>View my Codeberg!</h3></a>
-</div>
+<a href="https://codeberg.org/LilyWayLolz"><h3>View my Codeberg!</h3></a>
 
 ###
 
