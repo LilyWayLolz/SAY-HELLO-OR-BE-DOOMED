@@ -13,13 +13,17 @@
 ###
 
 <div align="center">
-  <a href="https://codeberg.org/LilyWayLolz"><h3>View my Codeberg!</h3></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LilyWayLolz.LilyWayLolz&"  />
 </div>
 
 ###
 
+<h2 align="left">Alternatively:</h2>
+
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LilyWayLolz.LilyWayLolz&"  />
+  <a href="https://codeberg.org/LilyWayLolz"><h3>View my Codeberg!</h3></a>
 </div>
 
 ###
