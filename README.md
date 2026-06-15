@@ -38,11 +38,13 @@
 
 ###
 
-<h2 align="left">Alternatively:</h2>
+<h2 align="left">Alternatively</h2>
 
 <div align="center">
   <a href="https://codeberg.org/LilyWayLolz"><h3>View my Codeberg!</h3></a>
 </div>
+
+<h2 align="left">Github Stats</h2>
 
 <p align="center">
   <a href="https://github.com/LilyWayLolz">
