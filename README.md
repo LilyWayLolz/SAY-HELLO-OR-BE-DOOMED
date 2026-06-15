@@ -50,6 +50,8 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=LilyWayLolz&theme=dracula&radius=10" alt="LilyWayLolz's Activity Graph" />
 </p>
 
+###
+
 <h2 align="left">Alternatively:</h2>
 
 ###
@@ -57,8 +59,6 @@
 <div align="center">
   <a href="https://codeberg.org/LilyWayLolz"><h3>View my Codeberg!</h3></a>
 </div>
-
-###
 
 ###
 
