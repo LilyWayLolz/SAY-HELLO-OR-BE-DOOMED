@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <h4>Alternatively:<a href="https://codeberg.org/LilyWayLolz">View my Codeberg!</a></h4>
+  <h4>Alternatively: <a href="https://codeberg.org/LilyWayLolz">View my Codeberg!</a></h4>
 </div>
 
 <p align="center">
