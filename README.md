@@ -38,10 +38,8 @@
 
 ###
 
-<h3 align="center">Alternatively</h3>
-
 <div align="center">
-  <a href="https://codeberg.org/LilyWayLolz"><h4>View my Codeberg!</h4></a>
+  <h4>Alternatively:<a href="https://codeberg.org/LilyWayLolz">View my Codeberg!</a></h4>
 </div>
 
 <p align="center">
