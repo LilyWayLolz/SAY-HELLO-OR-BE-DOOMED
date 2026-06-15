@@ -38,6 +38,12 @@
 
 ###
 
+<h2 align="left">Alternatively:</h2>
+
+<div align="center">
+  <a href="https://codeberg.org/LilyWayLolz"><h3>View my Codeberg!</h3></a>
+</div>
+
 <p align="center">
   <a href="https://github.com/LilyWayLolz">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LilyWayLolz&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="LilyWayLolz's GitHub Stats" />
@@ -49,10 +55,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=LilyWayLolz&theme=dracula&radius=10" alt="LilyWayLolz's Activity Graph" />
 </p>
-
-<h2 align="left">Alternatively:</h2>
-
-<a href="https://codeberg.org/LilyWayLolz"><h3>View my Codeberg!</h3></a>
 
 ###
 
